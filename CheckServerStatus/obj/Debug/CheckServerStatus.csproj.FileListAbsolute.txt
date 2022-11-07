@@ -1,0 +1,23 @@
+D:\SourceCode\CheckServerStatus\CheckServerStatus\bin\Debug\CheckServerStatus.exe.config
+D:\SourceCode\CheckServerStatus\CheckServerStatus\bin\Debug\CheckServerStatus.exe
+D:\SourceCode\CheckServerStatus\CheckServerStatus\bin\Debug\CheckServerStatus.pdb
+D:\SourceCode\CheckServerStatus\CheckServerStatus\obj\Debug\CheckServerStatus.exe
+D:\SourceCode\CheckServerStatus\CheckServerStatus\obj\Debug\CheckServerStatus.pdb
+D:\SourceCode\CheckServerStatus\CheckServerStatus\obj\Debug\CheckServerStatus.ProjectInstaller.resources
+D:\SourceCode\CheckServerStatus\CheckServerStatus\obj\Debug\CheckServerStatus.csproj.GenerateResource.Cache
+D:\sourcecode\CheckServerStatus\CheckServerStatus\obj\Debug\CheckServerStatus.csproj.AssemblyReference.cache
+D:\sourcecode\CheckServerStatus\CheckServerStatus\obj\Debug\CheckServerStatus.csproj.SuggestedBindingRedirects.cache
+D:\sourcecode\CheckServerStatus\CheckServerStatus\obj\Debug\CheckServerStatus.csproj.CoreCompileInputs.cache
+D:\Source Code Service\CheckServerStatus\CheckServerStatus\bin\Debug\CheckServerStatus.exe.config
+D:\Source Code Service\CheckServerStatus\CheckServerStatus\bin\Debug\CheckServerStatus.exe
+D:\Source Code Service\CheckServerStatus\CheckServerStatus\bin\Debug\CheckServerStatus.pdb
+D:\Source Code Service\CheckServerStatus\CheckServerStatus\obj\Debug\CheckServerStatus.csproj.AssemblyReference.cache
+D:\Source Code Service\CheckServerStatus\CheckServerStatus\obj\Debug\CheckServerStatus.csproj.SuggestedBindingRedirects.cache
+D:\Source Code Service\CheckServerStatus\CheckServerStatus\obj\Debug\CheckServerStatus.ProjectInstaller.resources
+D:\Source Code Service\CheckServerStatus\CheckServerStatus\obj\Debug\CheckServerStatus.csproj.GenerateResource.cache
+D:\Source Code Service\CheckServerStatus\CheckServerStatus\obj\Debug\CheckServerStatus.csproj.CoreCompileInputs.cache
+D:\Source Code Service\CheckServerStatus\CheckServerStatus\obj\Debug\CheckServerStatus.exe
+D:\Source Code Service\CheckServerStatus\CheckServerStatus\obj\Debug\CheckServerStatus.pdb
+D:\Source Code Service\CheckServerStatus\CheckServerStatus\bin\Debug\RestSharp.dll
+D:\Source Code Service\CheckServerStatus\CheckServerStatus\bin\Debug\RestSharp.xml
+D:\Source Code Service\CheckServerStatus\CheckServerStatus\obj\Debug\CheckServerStatus.csproj.CopyComplete

@@ -1,0 +1,30 @@
+D:\SourceCode\CheckServerStatus\ServiceCekCapacity\bin\Debug\ServiceCekCapacity.exe.config
+D:\SourceCode\CheckServerStatus\ServiceCekCapacity\bin\Debug\ServiceCekCapacity.exe
+D:\SourceCode\CheckServerStatus\ServiceCekCapacity\bin\Debug\ServiceCekCapacity.pdb
+D:\SourceCode\CheckServerStatus\ServiceCekCapacity\obj\Debug\ServiceCekCapacity.ProjectInstaller.resources
+D:\SourceCode\CheckServerStatus\ServiceCekCapacity\obj\Debug\ServiceCekCapacity.csproj.GenerateResource.Cache
+D:\SourceCode\CheckServerStatus\ServiceCekCapacity\obj\Debug\ServiceCekCapacity.exe
+D:\SourceCode\CheckServerStatus\ServiceCekCapacity\obj\Debug\ServiceCekCapacity.pdb
+D:\SourceCode\CheckServerStatus\ServiceCekCapacity\bin\Debug\Newtonsoft.Json.dll
+D:\SourceCode\CheckServerStatus\ServiceCekCapacity\bin\Debug\RestSharp.dll
+D:\SourceCode\CheckServerStatus\ServiceCekCapacity\bin\Debug\Newtonsoft.Json.xml
+D:\SourceCode\CheckServerStatus\ServiceCekCapacity\bin\Debug\RestSharp.xml
+D:\sourcecode\CheckServerStatus\ServiceCekCapacity\obj\Debug\ServiceCekCapacity.csproj.AssemblyReference.cache
+D:\sourcecode\CheckServerStatus\ServiceCekCapacity\obj\Debug\ServiceCekCapacity.csproj.SuggestedBindingRedirects.cache
+D:\sourcecode\CheckServerStatus\ServiceCekCapacity\obj\Debug\ServiceCekCapacity.csproj.CoreCompileInputs.cache
+D:\sourcecode\CheckServerStatus\ServiceCekCapacity\obj\Debug\ServiceCekCapacity.csproj.CopyComplete
+D:\Source Code Service\CheckServerStatus\ServiceCekCapacity\bin\Debug\ServiceCekCapacity.exe.config
+D:\Source Code Service\CheckServerStatus\ServiceCekCapacity\bin\Debug\ServiceCekCapacity.exe
+D:\Source Code Service\CheckServerStatus\ServiceCekCapacity\bin\Debug\ServiceCekCapacity.pdb
+D:\Source Code Service\CheckServerStatus\ServiceCekCapacity\bin\Debug\Newtonsoft.Json.dll
+D:\Source Code Service\CheckServerStatus\ServiceCekCapacity\bin\Debug\RestSharp.dll
+D:\Source Code Service\CheckServerStatus\ServiceCekCapacity\bin\Debug\Newtonsoft.Json.xml
+D:\Source Code Service\CheckServerStatus\ServiceCekCapacity\bin\Debug\RestSharp.xml
+D:\Source Code Service\CheckServerStatus\ServiceCekCapacity\obj\Debug\ServiceCekCapacity.csproj.AssemblyReference.cache
+D:\Source Code Service\CheckServerStatus\ServiceCekCapacity\obj\Debug\ServiceCekCapacity.csproj.SuggestedBindingRedirects.cache
+D:\Source Code Service\CheckServerStatus\ServiceCekCapacity\obj\Debug\ServiceCekCapacity.ProjectInstaller.resources
+D:\Source Code Service\CheckServerStatus\ServiceCekCapacity\obj\Debug\ServiceCekCapacity.csproj.GenerateResource.cache
+D:\Source Code Service\CheckServerStatus\ServiceCekCapacity\obj\Debug\ServiceCekCapacity.csproj.CoreCompileInputs.cache
+D:\Source Code Service\CheckServerStatus\ServiceCekCapacity\obj\Debug\ServiceCekCapacity.csproj.CopyComplete
+D:\Source Code Service\CheckServerStatus\ServiceCekCapacity\obj\Debug\ServiceCekCapacity.exe
+D:\Source Code Service\CheckServerStatus\ServiceCekCapacity\obj\Debug\ServiceCekCapacity.pdb
